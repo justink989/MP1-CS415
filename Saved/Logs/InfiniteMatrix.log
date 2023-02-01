@@ -17852,3 +17852,16 @@ Make sure 'BP_Player_C' has been compiled for  Screen Shake
 [2023.02.01-05.34.15:793][417]PIE: Play in editor total start time 0.158 seconds.
 [2023.02.01-05.34.25:100][632]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
 [2023.02.01-05.34.25:100][632]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.02.01-05.40.04:239][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.01-05.40.04:239][108]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2023.02.01-05.40.04:239][108]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.01-05.40.04:239][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.01-05.40.04:244][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.01-05.40.04:248][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.01-05.40.04:300][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.01-05.40.04:300][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=201
+[2023.02.01-05.40.04:301][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=201
+[2023.02.01-05.40.04:309][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.02.01-05.40.04:338][109]LogPlayLevel: Display: Destroying online subsystem :Context_264
+[2023.02.01-05.40.10:804][669]BlueprintLog: New page: Compile BP_Player
+[2023.02.01-05.40.10:955][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
