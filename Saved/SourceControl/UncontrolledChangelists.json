@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Justin/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/Justin/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/Justin/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/ScoreWidget.uasset",
+				"C:/Users/Justin/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Material_001.uasset",
+				"C:/Users/Justin/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/Justin/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/Justin/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/Justin/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthWidget.uasset",
+				"C:/Users/Justin/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/Justin/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthNotification.uasset",
+				"C:/Users/Justin/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Sphere.uasset"
+			]
+		}
+	]
+}
